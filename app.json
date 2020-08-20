@@ -28,11 +28,11 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "io.jamespriest.mobileflashcards"
+      "bundleIdentifier": "io.farhan2742.mobileflashcards"
     },
     "android": {
-      "package": "io.jamespriest.mobileflashcards"
+      "package": "io.farhan2742.mobileflashcards"
     },
-    "githubUrl": "https://github.com/james-priest/mobile-flashcards"
+    "githubUrl": "https://github.com/farhan2742/Mobile-Flashcard-App-ReactNative"
   }
 }
